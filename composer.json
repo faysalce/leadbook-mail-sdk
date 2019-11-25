@@ -1,6 +1,6 @@
  {
-  "name": "faysalce/leadbook-mail",
-  "homepage": "https://github.com/faysalce/leadbook-mail",
+  "name": "faysalce/leadbook-mail-sdk",
+  "homepage": "https://github.com/faysalce/leadbook-mail-sdk",
   "description": "This library allows you to quickly and easily send emails through LeadbookMail using PHP.",
   "version": "1.0.0",
   "license": "MIT",
